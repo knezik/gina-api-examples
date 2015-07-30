@@ -1,0 +1,8 @@
+C:\Projects\xamarin\ApiExamples\ApiExamples.Core\bin\Debug\ApiExamples.Core.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Core\bin\Debug\ApiExamples.Core.pdb
+C:\Projects\xamarin\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.csprojResolveAssemblyReference.cache
+C:\Projects\xamarin\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.pdb

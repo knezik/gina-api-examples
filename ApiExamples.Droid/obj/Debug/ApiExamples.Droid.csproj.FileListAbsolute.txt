@@ -1,0 +1,66 @@
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.pdb
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.apk
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid-Signed.apk
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Core.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.CrossCore.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\System.Net.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\System.Windows.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\System.Xml.Serialization.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Core.pdb
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.csprojResolveAssemblyReference.cache
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.dll
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.pdb
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\android\bin\ApiExamples.Droid.apk
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\firstview.xml
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\item_test.xml
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\splashscreen.xml
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\subtest_if.xml
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\main.xml
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\values\strings.xml
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\drawable\icon.png
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\values\splashstyle.xml
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\drawable\splash.png
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\R.cs.flag
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\uploadflags.txt
+C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_battery.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.apk
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid-Signed.apk
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Core.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\System.Net.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\System.Windows.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\System.Xml.Serialization.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Core.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\android\bin\ApiExamples.Droid.apk
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\firstview.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_battery.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\splashscreen.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\subtest_if.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\item_test.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\main.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\values\splashstyle.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\R.cs.flag
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\uploadflags.txt
