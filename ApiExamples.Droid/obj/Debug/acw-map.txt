@@ -2,6 +2,10 @@ ApiExamples.Droid.SplashScreen, ApiExamples.Droid;md5e20452339d9b526b1e583f0434f
 ApiExamples.Droid.SplashScreen, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
 ApiExamples.Droid.SplashScreen;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
 apiexamples.droid.SplashScreen;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
+ApiExamples.Droid.Views.LocationView, ApiExamples.Droid;md5ee0c664b459df2cde662d1c46dc2ebac.LocationView
+ApiExamples.Droid.Views.LocationView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.LocationView
+ApiExamples.Droid.Views.LocationView;md5ee0c664b459df2cde662d1c46dc2ebac.LocationView
+apiexamples.droid.views.LocationView;md5ee0c664b459df2cde662d1c46dc2ebac.LocationView
 ApiExamples.Droid.Views.FirstView, ApiExamples.Droid;md5ee0c664b459df2cde662d1c46dc2ebac.FirstView
 ApiExamples.Droid.Views.FirstView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.FirstView
 ApiExamples.Droid.Views.FirstView;md5ee0c664b459df2cde662d1c46dc2ebac.FirstView
@@ -10,6 +14,10 @@ ApiExamples.Droid.Views.BatteryView, ApiExamples.Droid;md5ee0c664b459df2cde662d1
 ApiExamples.Droid.Views.BatteryView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.BatteryView
 ApiExamples.Droid.Views.BatteryView;md5ee0c664b459df2cde662d1c46dc2ebac.BatteryView
 apiexamples.droid.views.BatteryView;md5ee0c664b459df2cde662d1c46dc2ebac.BatteryView
+ApiExamples.Droid.Services.DroidBatteryService, ApiExamples.Droid;md58e5ba0910813d094a3728f6cd7aead99.DroidBatteryService
+ApiExamples.Droid.Services.DroidBatteryService, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58e5ba0910813d094a3728f6cd7aead99.DroidBatteryService
+ApiExamples.Droid.Services.DroidBatteryService;md58e5ba0910813d094a3728f6cd7aead99.DroidBatteryService
+apiexamples.droid.services.DroidBatteryService;md58e5ba0910813d094a3728f6cd7aead99.DroidBatteryService
 Cirrious.CrossCore.Droid.MvxJavaContainer, Cirrious.CrossCore.Droid;md594e974f7daaa4f544d8fe5f075a74d26.MvxJavaContainer
 Cirrious.CrossCore.Droid.MvxJavaContainer, Cirrious.CrossCore.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md594e974f7daaa4f544d8fe5f075a74d26.MvxJavaContainer
 Cirrious.CrossCore.Droid.MvxJavaContainer;md594e974f7daaa4f544d8fe5f075a74d26.MvxJavaContainer
@@ -130,3 +138,7 @@ Cirrious.MvvmCross.Droid.Views.MvxTabActivity, Cirrious.MvvmCross.Droid;md57b8dd
 Cirrious.MvvmCross.Droid.Views.MvxTabActivity, Cirrious.MvvmCross.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57b8dd31b26d57b878589ceca204f3b49.MvxTabActivity
 Cirrious.MvvmCross.Droid.Views.MvxTabActivity;md57b8dd31b26d57b878589ceca204f3b49.MvxTabActivity
 cirrious.mvvmcross.droid.views.MvxTabActivity;md57b8dd31b26d57b878589ceca204f3b49.MvxTabActivity
+Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener, Cirrious.MvvmCross.Plugins.Location.Droid;md58fec48734828c8c9604f58919704df23.MvxLocationListener
+Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener, Cirrious.MvvmCross.Plugins.Location.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58fec48734828c8c9604f58919704df23.MvxLocationListener
+Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener;md58fec48734828c8c9604f58919704df23.MvxLocationListener
+cirrious.mvvmcross.plugins.location.droid.MvxLocationListener;md58fec48734828c8c9604f58919704df23.MvxLocationListener

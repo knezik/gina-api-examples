@@ -43,6 +43,9 @@ C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirriou
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Droid.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Plugins.Location.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Plugins.Location.Droid.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\System.Net.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\System.Windows.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\System.Xml.Serialization.dll
@@ -64,3 +67,4 @@ C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\val
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\drawable\splash.png
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\R.cs.flag
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\uploadflags.txt
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_location.xml

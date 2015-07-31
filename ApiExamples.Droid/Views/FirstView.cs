@@ -1,7 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
 using Android.App;
+using Android.Content;
 using Android.OS;
-using Cirrious.CrossCore.Converters;
+using Android.Runtime;
+using Android.Views;
+using Android.Widget;
+
+using Cirrious.CrossCore;
 using Cirrious.MvvmCross.Droid.Views;
+
 
 namespace ApiExamples.Droid.Views
 {
@@ -12,16 +23,6 @@ namespace ApiExamples.Droid.Views
         {
             base.OnCreate(bundle);
             SetContentView(Resource.Layout.FirstView);
-        }
-    }
-
-    [Activity(NoHistory = true)]
-    public class BatteryView : MvxActivity
-    {
-        protected override void OnCreate(Bundle bundle)
-        {
-            base.OnCreate(bundle);
-            SetContentView(Resource.Layout.Test_Battery);
         }
     }
 }

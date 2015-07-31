@@ -3,19 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using Cirrious.CrossCore.IoC;
 
-namespace ApiExamples.Core.ViewModels
+namespace ApiExamples.Core.Services
 {
-    public class AllTestsService
-        : IAllTestsService
+    public class AllTestsService : IAllTestsService
     {
         public AllTestsService()
         {
             All = GetType().Assembly.CreatableTypes()
-                           .Where(t => typeof (TestViewModel).IsAssignableFrom(t))
+                           .Where(t => typeof (ViewModels.TestViewModel).IsAssignableFrom(t))
                            .ToList();
         }
 
-        public Type NextViewModelType(TestViewModel currentViewModel)
+        public Type NextViewModelType(ViewModels.TestViewModel currentViewModel)
         {
             var index = All.IndexOf(currentViewModel.GetType());
             var nextIndex = index + 1;

@@ -3,6 +3,9 @@ using Cirrious.CrossCore.Platform;
 using Cirrious.MvvmCross.Droid.Platform;
 using Cirrious.MvvmCross.ViewModels;
 
+using Cirrious.CrossCore;
+
+
 namespace ApiExamples.Droid
 {
     public class Setup : MvxAndroidSetup
@@ -19,6 +22,13 @@ namespace ApiExamples.Droid
         protected override IMvxTrace CreateDebugTrace()
         {
             return new DebugTrace();
+        }
+
+        protected override void InitializeLastChance()
+        {
+            base.InitializeLastChance();
+
+            Mvx.RegisterSingleton<Core.Services.IBatteryService>(new Services.DroidBatteryService());
         }
     }
 }

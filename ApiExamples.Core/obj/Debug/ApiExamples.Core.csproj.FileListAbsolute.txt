@@ -6,3 +6,14 @@ C:\Projects\xamarin\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.Lo
 C:\Projects\xamarin\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.csprojResolveAssemblyReference.cache
 C:\Projects\xamarin\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.dll
 C:\Projects\xamarin\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\ApiExamples.Core.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\ApiExamples.Core.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Location.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Location.Droid.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.csprojResolveAssemblyReference.cache

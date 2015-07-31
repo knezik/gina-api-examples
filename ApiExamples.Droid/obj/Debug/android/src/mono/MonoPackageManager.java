@@ -76,6 +76,9 @@ class MonoPackageManager_Resources {
 		"Cirrious.MvvmCross.dll",
 		"Cirrious.MvvmCross.Droid.dll",
 		"Cirrious.MvvmCross.Localization.dll",
+		"Cirrious.MvvmCross.Plugins.Location.dll",
+		"Cirrious.MvvmCross.Plugins.Location.Droid.dll",
+		"Cirrious.MvvmCross.Plugins.Messenger.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

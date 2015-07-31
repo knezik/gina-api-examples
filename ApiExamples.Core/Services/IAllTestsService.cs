@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 
-namespace ApiExamples.Core.ViewModels
+namespace ApiExamples.Core.Services
 {
     public interface IAllTestsService
     {
-        Type NextViewModelType(TestViewModel currentViewModel);
+        Type NextViewModelType(ViewModels.TestViewModel currentViewModel);
         IList<Type> All { get; }
     }
 }
