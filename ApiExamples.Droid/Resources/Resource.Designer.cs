@@ -124,6 +124,9 @@ namespace ApiExamples.Droid
 			// aapt resource value: 0x7f030006
 			public const int Test_Location = 2130903046;
 			
+			// aapt resource value: 0x7f030007
+			public const int Test_Storage = 2130903047;
+			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

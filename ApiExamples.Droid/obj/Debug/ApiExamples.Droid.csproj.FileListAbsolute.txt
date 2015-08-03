@@ -68,3 +68,6 @@ C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\dra
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\R.cs.flag
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\uploadflags.txt
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_location.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_storage.xml

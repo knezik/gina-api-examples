@@ -6,11 +6,18 @@ namespace ApiExamples.Core
     {
         public override void Initialize()
         {
+            // services
             CreatableTypes()
                 .EndingWith("Service")
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
-				
+
+            // factories
+            CreatableTypes()
+                .EndingWith("Factory")
+                .AsInterfaces()
+                .RegisterAsLazySingleton();
+
             RegisterAppStart<ViewModels.FirstViewModel>();
         }
     }

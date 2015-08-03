@@ -2,6 +2,10 @@ ApiExamples.Droid.SplashScreen, ApiExamples.Droid;md5e20452339d9b526b1e583f0434f
 ApiExamples.Droid.SplashScreen, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
 ApiExamples.Droid.SplashScreen;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
 apiexamples.droid.SplashScreen;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
+ApiExamples.Droid.Views.StorageView, ApiExamples.Droid;md5ee0c664b459df2cde662d1c46dc2ebac.StorageView
+ApiExamples.Droid.Views.StorageView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.StorageView
+ApiExamples.Droid.Views.StorageView;md5ee0c664b459df2cde662d1c46dc2ebac.StorageView
+apiexamples.droid.views.StorageView;md5ee0c664b459df2cde662d1c46dc2ebac.StorageView
 ApiExamples.Droid.Views.LocationView, ApiExamples.Droid;md5ee0c664b459df2cde662d1c46dc2ebac.LocationView
 ApiExamples.Droid.Views.LocationView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.LocationView
 ApiExamples.Droid.Views.LocationView;md5ee0c664b459df2cde662d1c46dc2ebac.LocationView

@@ -21,6 +21,8 @@ namespace ApiExamples.Core.Services
 
         public LocationService(IMvxLocationWatcher watcher)
         {
+            StatusMessage = "Current location is being resolved...";
+
             _watcher = watcher;
             _watcher.Start(new MvxLocationOptions() { TimeBetweenUpdates = new TimeSpan(0, 0, 1), Accuracy = MvxLocationAccuracy.Fine }, OnLocation, OnError);
         }
