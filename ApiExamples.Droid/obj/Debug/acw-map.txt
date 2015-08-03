@@ -2,6 +2,10 @@ ApiExamples.Droid.SplashScreen, ApiExamples.Droid;md5e20452339d9b526b1e583f0434f
 ApiExamples.Droid.SplashScreen, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
 ApiExamples.Droid.SplashScreen;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
 apiexamples.droid.SplashScreen;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
+ApiExamples.Droid.Views.MapView, ApiExamples.Droid;md5ee0c664b459df2cde662d1c46dc2ebac.MapView
+ApiExamples.Droid.Views.MapView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.MapView
+ApiExamples.Droid.Views.MapView;md5ee0c664b459df2cde662d1c46dc2ebac.MapView
+apiexamples.droid.views.MapView;md5ee0c664b459df2cde662d1c46dc2ebac.MapView
 ApiExamples.Droid.Views.StorageView, ApiExamples.Droid;md5ee0c664b459df2cde662d1c46dc2ebac.StorageView
 ApiExamples.Droid.Views.StorageView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.StorageView
 ApiExamples.Droid.Views.StorageView;md5ee0c664b459df2cde662d1c46dc2ebac.StorageView
@@ -146,3 +150,11 @@ Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener, Cirrious.MvvmCros
 Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener, Cirrious.MvvmCross.Plugins.Location.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58fec48734828c8c9604f58919704df23.MvxLocationListener
 Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener;md58fec48734828c8c9604f58919704df23.MvxLocationListener
 cirrious.mvvmcross.plugins.location.droid.MvxLocationListener;md58fec48734828c8c9604f58919704df23.MvxLocationListener
+Nutiteq.Ui.ConfigChooser, NutiteqMapsSDK.Android;md5ee24fc8ea56edceefdbd1e55577a1153.ConfigChooser
+Nutiteq.Ui.ConfigChooser, NutiteqMapsSDK.Android, Version=1.0.5617.27555, Culture=neutral, PublicKeyToken=null;md5ee24fc8ea56edceefdbd1e55577a1153.ConfigChooser
+Nutiteq.Ui.ConfigChooser;md5ee24fc8ea56edceefdbd1e55577a1153.ConfigChooser
+nutiteq.ui.ConfigChooser;md5ee24fc8ea56edceefdbd1e55577a1153.ConfigChooser
+Nutiteq.Ui.MapView, NutiteqMapsSDK.Android;md5ee24fc8ea56edceefdbd1e55577a1153.MapView
+Nutiteq.Ui.MapView, NutiteqMapsSDK.Android, Version=1.0.5617.27555, Culture=neutral, PublicKeyToken=null;md5ee24fc8ea56edceefdbd1e55577a1153.MapView
+Nutiteq.Ui.MapView;md5ee24fc8ea56edceefdbd1e55577a1153.MapView
+nutiteq.ui.MapView;md5ee24fc8ea56edceefdbd1e55577a1153.MapView

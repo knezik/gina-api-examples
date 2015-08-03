@@ -99,6 +99,9 @@
     </Reference>
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
+    <Reference Include="NutiteqMapsSDK.Android">
+      <HintPath>Lib\NutiteqMapsSDK.Android.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Net">
@@ -123,15 +126,19 @@
     <Compile Include="LinkerPleaseInclude.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\DroidMapService.cs" />
     <Compile Include="Services\DroidBatteryService.cs" />
     <Compile Include="Setup.cs" />
     <Compile Include="SplashScreen.cs" />
+    <Compile Include="Views\MapView.cs" />
     <Compile Include="Views\StorageView.cs" />
     <Compile Include="Views\LocationView.cs" />
     <Compile Include="Views\FirstView.cs" />
     <Compile Include="Views\BatteryView.cs" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidAsset Include="Assets\world_ntvt_0_4.mbtiles" />
+    <AndroidAsset Include="Assets\osmbright.zip" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
@@ -144,6 +151,7 @@
     <AndroidResource Include="Resources\Layout\Item_Test.axml" />
     <AndroidResource Include="Resources\Layout\Test_Location.axml" />
     <AndroidResource Include="Resources\Layout\Test_Storage.axml" />
+    <AndroidResource Include="Resources\Layout\Test_Map.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\Layout\Main.axml" />
@@ -167,7 +175,9 @@
     <AndroidResource Include="Resources\Drawable\splash.png" />
     <Content Include="ToDo-MvvmCross\_ Droid UI.txt" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Lib\" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
      Other similar extension points exist, see Microsoft.Common.targets.

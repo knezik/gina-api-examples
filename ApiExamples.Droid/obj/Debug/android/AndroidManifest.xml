@@ -2,12 +2,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="ApiExamples.Droid">
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" />
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+  <uses-permission android:name="android.permission.INTERNET" />
   <application android:name="mono.android.app.Application" android:debuggable="true">
     <activity android:icon="@drawable/icon" android:label="ApiExamples.Droid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md5e20452339d9b526b1e583f0434f1b906.SplashScreen" />
-    <activity android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.StorageView" />
-    <activity android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.LocationView" />
+    <activity android:label="Map test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.MapView" />
+    <activity android:label="Storage test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.StorageView" />
+    <activity android:label="Location test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.LocationView" />
     <activity android:label="Api examples" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.FirstView" />
-    <activity android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.BatteryView" />
+    <activity android:label="Battery test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.BatteryView" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="ApiExamples.Droid.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
@@ -22,6 +24,5 @@
       </intent-filter>
     </activity>
   </application>
-  <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 </manifest>

@@ -16,7 +16,7 @@ using Cirrious.MvvmCross.Droid.Views;
 
 namespace ApiExamples.Droid.Views
 {
-    [Activity(NoHistory = true)]
+    [Activity(Label = "Location test", NoHistory = true)]
     class LocationView : MvxActivity
     {
         protected override void OnCreate(Bundle bundle)

@@ -14,6 +14,7 @@ C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\assembl
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Plugins.Messenger.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\assemblies\Mono.Android.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\assemblies\NutiteqMapsSDK.Android.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\assemblies\System.Core.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\assemblies\System.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\assemblies\System.Net.dll

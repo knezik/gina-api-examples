@@ -93,6 +93,7 @@ class MonoPackageManager_Resources {
 		"Cirrious.MvvmCross.Plugins.Location.dll",
 		"Cirrious.MvvmCross.Plugins.Location.Droid.dll",
 		"Cirrious.MvvmCross.Plugins.Messenger.dll",
+		"NutiteqMapsSDK.Android.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

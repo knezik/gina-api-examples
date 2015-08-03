@@ -14,7 +14,7 @@ using Cirrious.MvvmCross.Droid.Views;
 
 namespace ApiExamples.Droid.Views
 {
-    [Activity(NoHistory = true)]
+    [Activity(Label = "Storage test", NoHistory = true)]
     class StorageView : MvxActivity
     {
         protected override void OnCreate(Bundle bundle)

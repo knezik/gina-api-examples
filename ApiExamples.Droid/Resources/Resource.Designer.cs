@@ -90,6 +90,9 @@ namespace ApiExamples.Droid
 			// aapt resource value: 0x7f040001
 			public const int MyButton = 2130968577;
 			
+			// aapt resource value: 0x7f040002
+			public const int mapViewer = 2130968578;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -125,7 +128,10 @@ namespace ApiExamples.Droid
 			public const int Test_Location = 2130903046;
 			
 			// aapt resource value: 0x7f030007
-			public const int Test_Storage = 2130903047;
+			public const int Test_Map = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int Test_Storage = 2130903048;
 			
 			static Layout()
 			{

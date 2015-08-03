@@ -12,6 +12,7 @@ namespace ApiExamples.Droid
     {
         public Setup(Context applicationContext) : base(applicationContext)
         {
+
         }
 
         protected override IMvxApplication CreateApp()
@@ -29,6 +30,7 @@ namespace ApiExamples.Droid
             base.InitializeLastChance();
 
             Mvx.RegisterSingleton<Core.Services.IBatteryService>(new Services.DroidBatteryService());
+            Mvx.RegisterSingleton<Core.Services.IMapService>(new Services.DroidMapService());
         }
     }
 }
