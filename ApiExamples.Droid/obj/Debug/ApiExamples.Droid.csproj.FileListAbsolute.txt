@@ -73,3 +73,4 @@ C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Cirriou
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_storage.xml
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\NutiteqMapsSDK.Android.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_map.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Xamarin.Android.Support.v4.dll

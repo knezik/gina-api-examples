@@ -36,6 +36,7 @@
     <Compile Include="App.cs" />
     <Compile Include="DB\DBRecord.cs" />
     <Compile Include="DB\Sample.cs" />
+    <Compile Include="Services\IBackgroundService.cs" />
     <Compile Include="Services\MapService.cs" />
     <Compile Include="Services\IMapService.cs" />
     <Compile Include="Services\StorageServiceFactory.cs" />

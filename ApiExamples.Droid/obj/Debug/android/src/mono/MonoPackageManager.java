@@ -94,6 +94,7 @@ class MonoPackageManager_Resources {
 		"Cirrious.MvvmCross.Plugins.Location.Droid.dll",
 		"Cirrious.MvvmCross.Plugins.Messenger.dll",
 		"NutiteqMapsSDK.Android.dll",
+		"Xamarin.Android.Support.v4.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
