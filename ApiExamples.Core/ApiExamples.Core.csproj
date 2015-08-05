@@ -34,9 +34,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="BackgroundRunners\BaseBackgroundRunner.cs" />
+    <Compile Include="BackgroundRunners\CounterRunner.cs" />
     <Compile Include="DB\DBRecord.cs" />
     <Compile Include="DB\Sample.cs" />
     <Compile Include="Services\IBackgroundService.cs" />
+    <Compile Include="Services\IBackgroundServiceFactory.cs" />
+    <Compile Include="Services\IIdentificationService.cs" />
     <Compile Include="Services\MapService.cs" />
     <Compile Include="Services\IMapService.cs" />
     <Compile Include="Services\StorageServiceFactory.cs" />
@@ -48,7 +52,9 @@
     <Compile Include="DB\IEntityStorage.cs" />
     <Compile Include="Services\LocationService.cs" />
     <Compile Include="Services\ILocationService.cs" />
+    <Compile Include="ViewModels\IdentificationViewModel.cs" />
     <Compile Include="ViewModels\BatteryViewModel.cs" />
+    <Compile Include="ViewModels\BackgroundViewModel.cs" />
     <Compile Include="ViewModels\MapViewModel.cs" />
     <Compile Include="ViewModels\StorageViewModel.cs" />
     <Compile Include="ViewModels\LocationViewModel.cs" />

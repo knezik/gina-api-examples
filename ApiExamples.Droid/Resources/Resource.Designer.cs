@@ -88,10 +88,7 @@ namespace ApiExamples.Droid
 			public const int MvxBindingTagUnique = 2130968576;
 			
 			// aapt resource value: 0x7f040001
-			public const int MyButton = 2130968577;
-			
-			// aapt resource value: 0x7f040002
-			public const int mapViewer = 2130968578;
+			public const int mapViewer = 2130968577;
 			
 			static Id()
 			{
@@ -113,16 +110,16 @@ namespace ApiExamples.Droid
 			public const int Item_Test = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Main = 2130903042;
+			public const int SplashScreen = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int SplashScreen = 2130903043;
+			public const int Test_Background = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int SubTest_If = 2130903044;
+			public const int Test_Battery = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int Test_Battery = 2130903045;
+			public const int Test_Identification = 2130903045;
 			
 			// aapt resource value: 0x7f030006
 			public const int Test_Location = 2130903046;
