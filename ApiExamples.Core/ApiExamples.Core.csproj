@@ -41,6 +41,7 @@
     <Compile Include="Services\IBackgroundService.cs" />
     <Compile Include="Services\IBackgroundServiceFactory.cs" />
     <Compile Include="Services\IIdentificationService.cs" />
+    <Compile Include="Services\IPhotoService.cs" />
     <Compile Include="Services\MapService.cs" />
     <Compile Include="Services\IMapService.cs" />
     <Compile Include="Services\StorageServiceFactory.cs" />
@@ -52,6 +53,7 @@
     <Compile Include="DB\IEntityStorage.cs" />
     <Compile Include="Services\LocationService.cs" />
     <Compile Include="Services\ILocationService.cs" />
+    <Compile Include="ViewModels\PhotoViewModel.cs" />
     <Compile Include="ViewModels\IdentificationViewModel.cs" />
     <Compile Include="ViewModels\BatteryViewModel.cs" />
     <Compile Include="ViewModels\BackgroundViewModel.cs" />
@@ -94,6 +96,12 @@
     </Reference>
     <Reference Include="Cirrious.MvvmCross.Plugins.Messenger">
       <HintPath>..\packages\MvvmCross.HotTuna.Plugin.Messenger.3.1.1\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.Messenger.dll</HintPath>
+    </Reference>
+    <Reference Include="Media.Plugin">
+      <HintPath>..\packages\Xam.Plugin.Media.1.0.0\lib\MonoAndroid10\Media.Plugin.dll</HintPath>
+    </Reference>
+    <Reference Include="Media.Plugin.Abstractions">
+      <HintPath>..\packages\Xam.Plugin.Media.1.0.0\lib\MonoAndroid10\Media.Plugin.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="NutiteqMapsSDK.Android">
       <HintPath>..\ApiExamples.Droid\Lib\NutiteqMapsSDK.Android.dll</HintPath>

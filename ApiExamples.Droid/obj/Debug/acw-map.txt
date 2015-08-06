@@ -2,6 +2,10 @@ ApiExamples.Droid.SplashScreen, ApiExamples.Droid;md5e20452339d9b526b1e583f0434f
 ApiExamples.Droid.SplashScreen, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
 ApiExamples.Droid.SplashScreen;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
 apiexamples.droid.SplashScreen;md5e20452339d9b526b1e583f0434f1b906.SplashScreen
+ApiExamples.Droid.Views.PhotoView, ApiExamples.Droid;md5ee0c664b459df2cde662d1c46dc2ebac.PhotoView
+ApiExamples.Droid.Views.PhotoView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.PhotoView
+ApiExamples.Droid.Views.PhotoView;md5ee0c664b459df2cde662d1c46dc2ebac.PhotoView
+apiexamples.droid.views.PhotoView;md5ee0c664b459df2cde662d1c46dc2ebac.PhotoView
 ApiExamples.Droid.Views.IdentificationView, ApiExamples.Droid;md5ee0c664b459df2cde662d1c46dc2ebac.IdentificationView
 ApiExamples.Droid.Views.IdentificationView, ApiExamples.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0c664b459df2cde662d1c46dc2ebac.IdentificationView
 ApiExamples.Droid.Views.IdentificationView;md5ee0c664b459df2cde662d1c46dc2ebac.IdentificationView
@@ -170,6 +174,10 @@ Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener, Cirrious.MvvmCros
 Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener, Cirrious.MvvmCross.Plugins.Location.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58fec48734828c8c9604f58919704df23.MvxLocationListener
 Cirrious.MvvmCross.Plugins.Location.Droid.MvxLocationListener;md58fec48734828c8c9604f58919704df23.MvxLocationListener
 cirrious.mvvmcross.plugins.location.droid.MvxLocationListener;md58fec48734828c8c9604f58919704df23.MvxLocationListener
+Media.Plugin.MediaPickerActivity, Media.Plugin;md59ee9cf477177d0ff9c7b0779e1ebfcbe.MediaPickerActivity
+Media.Plugin.MediaPickerActivity, Media.Plugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59ee9cf477177d0ff9c7b0779e1ebfcbe.MediaPickerActivity
+Media.Plugin.MediaPickerActivity;md59ee9cf477177d0ff9c7b0779e1ebfcbe.MediaPickerActivity
+media.plugin.MediaPickerActivity;md59ee9cf477177d0ff9c7b0779e1ebfcbe.MediaPickerActivity
 Nutiteq.Ui.ConfigChooser, NutiteqMapsSDK.Android;md5ee24fc8ea56edceefdbd1e55577a1153.ConfigChooser
 Nutiteq.Ui.ConfigChooser, NutiteqMapsSDK.Android, Version=1.0.5617.27555, Culture=neutral, PublicKeyToken=null;md5ee24fc8ea56edceefdbd1e55577a1153.ConfigChooser
 Nutiteq.Ui.ConfigChooser;md5ee24fc8ea56edceefdbd1e55577a1153.ConfigChooser

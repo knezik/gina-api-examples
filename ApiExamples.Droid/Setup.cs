@@ -33,6 +33,7 @@ namespace ApiExamples.Droid
             Mvx.RegisterSingleton<Core.Services.IMapService>(new Services.DroidMapService());
             Mvx.RegisterSingleton<Core.Services.IBackgroundServiceFactory>(new Services.DroidBackgroundServiceFactory());
             Mvx.RegisterSingleton<Core.Services.IIdentificationService>(new Services.DroidIdentificationService());
+            Mvx.RegisterSingleton<Core.Services.IPhotoService>(new Services.DroidPhotoService());
         }
     }
 }

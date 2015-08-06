@@ -5,6 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <application android:name="mono.android.app.Application" android:debuggable="true">
     <activity android:icon="@drawable/icon" android:label="ApiExamples.Droid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md5e20452339d9b526b1e583f0434f1b906.SplashScreen" />
+    <activity android:label="Photo test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.PhotoView" />
     <activity android:label="Identification test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.IdentificationView" />
     <activity android:label="Map test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.MapView" />
     <activity android:label="Background service test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.BackgroundView" />
@@ -13,6 +14,7 @@
     <activity android:label="Api examples" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.FirstView" />
     <activity android:label="Battery test" android:noHistory="true" android:name="md5ee0c664b459df2cde662d1c46dc2ebac.BatteryView" />
     <service android:name="md58e5ba0910813d094a3728f6cd7aead99.DroidBackgroundService_1_RunnerService_1" />
+    <activity android:name="md59ee9cf477177d0ff9c7b0779e1ebfcbe.MediaPickerActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="ApiExamples.Droid.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>

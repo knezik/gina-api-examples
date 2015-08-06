@@ -76,7 +76,8 @@ containing a value of this type.
         public static final int test_identification=0x7f030005;
         public static final int test_location=0x7f030006;
         public static final int test_map=0x7f030007;
-        public static final int test_storage=0x7f030008;
+        public static final int test_photo=0x7f030008;
+        public static final int test_storage=0x7f030009;
     }
     public static final class string {
         public static final int ApplicationName=0x7f060001;

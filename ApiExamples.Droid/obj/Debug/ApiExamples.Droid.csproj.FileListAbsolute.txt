@@ -31,7 +31,6 @@ C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\drawable\splash.
 C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\R.cs.flag
 C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\uploadflags.txt
 C:\Projects\xamarin\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_battery.xml
-C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.csprojResolveAssemblyReference.cache
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.pdb
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Droid.apk
@@ -55,16 +54,19 @@ C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\System.
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\System.Xml.Serialization.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\ApiExamples.Core.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.csprojResolveAssemblyReference.cache
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\ApiExamples.Droid.pdb
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\android\bin\ApiExamples.Droid.apk
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\firstview.xml
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_battery.xml
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\splashscreen.xml
-C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\item_test.xml
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_location.xml
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_storage.xml
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_map.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_background.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\item_test.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_identification.xml
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\values\strings.xml
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\drawable\icon.png
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\values\splashstyle.xml
@@ -72,5 +74,10 @@ C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\val
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\drawable\splash.png
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\R.cs.flag
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\uploadflags.txt
-C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_background.xml
-C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_identification.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Media.Plugin.Abstractions.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Media.Plugin.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Media.Plugin.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Media.Plugin.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Media.Plugin.Abstractions.pdb
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\bin\Debug\Media.Plugin.Abstractions.xml
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Droid\obj\Debug\res\layout\test_photo.xml

@@ -4,18 +4,11 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-    <TextView
+    <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        local:MvxBind="Text StatusMessage" />
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        local:MvxBind="Text Longitude" />
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        local:MvxBind="Text Latitude" />
+        android:text="Next test"
+        local:MvxBind="Click TakePhotoCommand" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"

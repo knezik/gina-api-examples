@@ -17,6 +17,6 @@ C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Location.Droid.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\bin\Debug\NutiteqMapsSDK.Android.dll
+C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.csprojResolveAssemblyReference.cache
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.dll
 C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.pdb
-C:\Users\Jan Novak\Vyvoj\Mobilni\ApiExamples\ApiExamples.Core\obj\Debug\ApiExamples.Core.csprojResolveAssemblyReference.cache

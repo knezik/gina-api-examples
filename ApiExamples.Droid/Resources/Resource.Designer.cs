@@ -128,7 +128,10 @@ namespace ApiExamples.Droid
 			public const int Test_Map = 2130903047;
 			
 			// aapt resource value: 0x7f030008
-			public const int Test_Storage = 2130903048;
+			public const int Test_Photo = 2130903048;
+			
+			// aapt resource value: 0x7f030009
+			public const int Test_Storage = 2130903049;
 			
 			static Layout()
 			{
